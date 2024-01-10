@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Portfolio";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to My Portfolio</h1>
+    <p>Hi, I'm Thomas Neider. I'm a Programmer with a passion for Computing Technologies.</p>
+    <p>Here, you'll find a collection of my work, skills, and professional experience. Feel free to explore!</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <h2>About Me</h2>
+            <p>[Brief introduction about yourself]</p>
+            <a class="btn btn-primary" asp-controller="Portfolio" asp-action="About">Learn More »</a>
+        </div>
+        <div class="col-md-4">
+            <h2>Projects</h2>
+            <p>[Brief introduction about your projects]</p>
+            <a class="btn btn-primary" asp-controller="Portfolio" asp-action="Projects">View Projects »</a>
+        </div>
+        <div class="col-md-4">
+            <h2>Contact</h2>
+            <p>[Brief introduction about how to contact you]</p>
+            <a class="btn btn-primary" asp-controller="Portfolio" asp-action="Contact">Contact Me »</a>
+        </div>
+    </div>
+</div>
