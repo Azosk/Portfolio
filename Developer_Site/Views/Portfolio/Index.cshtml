@@ -1,29 +1,46 @@
 ﻿@{
-    ViewData["Title"] = "Portfolio";
+    ViewData["Title"] = "Home";
 }
+<body style="background: url('/wwwroot/Developer_Background.jpg');">
+    <div>
+        <div class="card text-center">
+            <h1 class="display-4">Welcome to My Portfolio</h1>
+            <p>My name is Thomas Neider, and I'm a Software Developer with a passion for growth.</p>
+            <p>Here, you'll find a collection of my work, skills, and professional experience. Feel free to explore!</p>
+        </div>
+        <br>
+        <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+            <div class="card-body text-center">
+                <h2>About Me</h2>
+                <p>I am a fullstack developer who uses Azure to host applications and services.
+                    If you click below, you can find out more information about where I have studied and my general experience.</p>
+                <a class="btn btn-primary" asp-controller="Portfolio" asp-action="About">Learn More »</a>
+            </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+            <div class="card-body text-center">
+                <h2>Projects</h2>
+                <p>Here is a link to my personal GitHub : <a href="https://github.com/Azosk">Azosk</a>.
+                    For an overview of the projects I have worked on, click below.</p>
+                <a class="btn btn-primary" asp-controller="Portfolio" asp-action="Projects">View Projects »</a>
+            </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+            <div class="card-body text-center">
+                <h2>Contact</h2>
+                <p>Email : azoskalias@gmail.com</p>
+                <p>LinkedIn : <a href="https://www.linkedin.com/in/thomas-neider-b764ba218/">Thomas Neider</a></p>
+                <p>GitHub : <a href="https://github.com/Azosk">Azosk</a></p>
+            </div>
+            </div>
+        </div>
+        </div>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome to My Portfolio</h1>
-    <p>Hi, I'm Thomas Neider. I'm a Programmer with a passion for Computing Technologies.</p>
-    <p>Here, you'll find a collection of my work, skills, and professional experience. Feel free to explore!</p>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-4">
-            <h2>About Me</h2>
-            <p>[Brief introduction about yourself]</p>
-            <a class="btn btn-primary" asp-controller="Portfolio" asp-action="About">Learn More »</a>
-        </div>
-        <div class="col-md-4">
-            <h2>Projects</h2>
-            <p>[Brief introduction about your projects]</p>
-            <a class="btn btn-primary" asp-controller="Portfolio" asp-action="Projects">View Projects »</a>
-        </div>
-        <div class="col-md-4">
-            <h2>Contact</h2>
-            <p>[Brief introduction about how to contact you]</p>
-            <a class="btn btn-primary" asp-controller="Portfolio" asp-action="Contact">Contact Me »</a>
-        </div>
     </div>
-</div>
+</body>

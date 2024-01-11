@@ -32,12 +32,6 @@ public class PortfolioController : Controller
         return View("Views/Portfolio/About.cshtml");
     }
 
-
-    public IActionResult Contact()
-    {
-        return View("Views/Portfolio/Contact.cshtml");
-    }
-
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
