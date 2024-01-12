@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sRMniy2s60wq9KDpjf09HFmTfBzCNCdoHYSTv5Ld6Tk=",
+  "Hash": "H2PC61C6yCAgSq1x1xH8HunGhD/7Y9t9IP8mXig9+7w=",
   "Source": "Developer_Site",
   "BasePath": "_content/Developer_Site",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Developer_Background.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\azosk\\source\\repos\\Portfolio\\Portfolio\\Developer_Site\\wwwroot\\css\\Neider.jpg",
+      "SourceId": "Developer_Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\azosk\\source\\repos\\Portfolio\\Portfolio\\Developer_Site\\wwwroot\\",
+      "BasePath": "_content/Developer_Site",
+      "RelativePath": "css/Neider.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Neider.jpg"
     },
     {
       "Identity": "C:\\Users\\azosk\\source\\repos\\Portfolio\\Portfolio\\Developer_Site\\wwwroot\\css\\site.css",

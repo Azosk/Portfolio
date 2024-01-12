@@ -1,0 +1,7 @@
+C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Release\net8.0\publish\Developer_Site.exe
+C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Release\net8.0\publish\appsettings.json
+C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Release\net8.0\publish\Developer_Site.dll
+C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Release\net8.0\publish\Developer_Site.deps.json
+C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Release\net8.0\publish\Developer_Site.runtimeconfig.json
+C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Release\net8.0\publish\Developer_Site.pdb
