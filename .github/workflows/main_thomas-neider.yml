@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'thomas-neider'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18A8A6788EB24532937B3563F7ED9CF6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F78F9833132B4AA4872AC51BB53E4A32 }}
           package: .
