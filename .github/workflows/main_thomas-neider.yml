@@ -39,4 +39,4 @@ jobs:
           app-name: 'thomas-neider'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_704E571BD70C4E099BF8A3D4EBD7710E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7CD987E91C04302B9AD623D18B63F1B }}
