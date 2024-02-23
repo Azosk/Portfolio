@@ -1,61 +1,92 @@
-F:\repos\Portfolio\Developer_Site\bin\Debug\net8.0\appsettings.Development.json
-F:\repos\Portfolio\Developer_Site\bin\Debug\net8.0\appsettings.json
-F:\repos\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.staticwebassets.runtime.json
-F:\repos\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.exe
-F:\repos\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.deps.json
-F:\repos\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.runtimeconfig.json
-F:\repos\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.dll
-F:\repos\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.pdb
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.GeneratedMSBuildEditorConfig.editorconfig
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.AssemblyInfoInputs.cache
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.AssemblyInfo.cs
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.csproj.CoreCompileInputs.cache
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.MvcApplicationPartsAssemblyInfo.cache
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.RazorAssemblyInfo.cache
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.RazorAssemblyInfo.cs
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.build.json
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.development.json
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.Developer_Site.Microsoft.AspNetCore.StaticWebAssets.props
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.build.Developer_Site.props
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Developer_Site.props
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Developer_Site.props
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.pack.json
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\bundle\Developer_Site.styles.css
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\projectbundle\Developer_Site.bundle.scp.css
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.dll
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\refint\Developer_Site.dll
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.pdb
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.genruntimeconfig.cache
-F:\repos\Portfolio\Developer_Site\obj\Debug\net8.0\ref\Developer_Site.dll
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\appsettings.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.staticwebassets.runtime.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.exe
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.deps.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.runtimeconfig.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.dll
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.pdb
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.AssemblyInfoInputs.cache
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.AssemblyInfo.cs
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.csproj.CoreCompileInputs.cache
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.RazorAssemblyInfo.cache
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.RazorAssemblyInfo.cs
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.sourcelink.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.Developer_Site.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.build.Developer_Site.props
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Developer_Site.props
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Developer_Site.props
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\bundle\Developer_Site.styles.css
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\projectbundle\Developer_Site.bundle.scp.css
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.dll
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\refint\Developer_Site.dll
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.pdb
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.genruntimeconfig.cache
-C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\ref\Developer_Site.dll
+F:/repos/Portfolio/Developer_Site/bin/Debug/net8.0/appsettings.Development.json
+F:/repos/Portfolio/Developer_Site/bin/Debug/net8.0/appsettings.json
+F:/repos/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.staticwebassets.runtime.json
+F:/repos/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.exe
+F:/repos/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.deps.json
+F:/repos/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.runtimeconfig.json
+F:/repos/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.dll
+F:/repos/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.pdb
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.GeneratedMSBuildEditorConfig.editorconfig
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.AssemblyInfoInputs.cache
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.AssemblyInfo.cs
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.csproj.CoreCompileInputs.cache
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.MvcApplicationPartsAssemblyInfo.cache
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.RazorAssemblyInfo.cache
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.RazorAssemblyInfo.cs
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets.build.json
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets.development.json
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets/msbuild.Developer_Site.Microsoft.AspNetCore.StaticWebAssets.props
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets/msbuild.build.Developer_Site.props
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Developer_Site.props
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Developer_Site.props
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets.pack.json
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/scopedcss/bundle/Developer_Site.styles.css
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/scopedcss/projectbundle/Developer_Site.bundle.scp.css
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.dll
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/refint/Developer_Site.dll
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.pdb
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.genruntimeconfig.cache
+F:/repos/Portfolio/Developer_Site/obj/Debug/net8.0/ref/Developer_Site.dll
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/bin/Debug/net8.0/appsettings.Development.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/bin/Debug/net8.0/appsettings.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.staticwebassets.runtime.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.deps.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.runtimeconfig.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.dll
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/bin/Debug/net8.0/Developer_Site.pdb
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.AssemblyInfoInputs.cache
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.AssemblyInfo.cs
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.csproj.CoreCompileInputs.cache
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.RazorAssemblyInfo.cache
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.RazorAssemblyInfo.cs
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.sourcelink.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets.build.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets.development.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets/msbuild.Developer_Site.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets/msbuild.build.Developer_Site.props
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Developer_Site.props
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Developer_Site.props
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/staticwebassets.pack.json
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/scopedcss/bundle/Developer_Site.styles.css
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/scopedcss/projectbundle/Developer_Site.bundle.scp.css
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.dll
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/refint/Developer_Site.dll
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.pdb
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/Developer_Site.genruntimeconfig.cache
+/Volumes/Crucial X6/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/obj/Debug/net8.0/ref/Developer_Site.dll
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\appsettings.Development.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\appsettings.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.staticwebassets.runtime.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.exe
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.deps.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.runtimeconfig.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.dll
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\bin\Debug\net8.0\Developer_Site.pdb
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.AssemblyInfoInputs.cache
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.AssemblyInfo.cs
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.csproj.CoreCompileInputs.cache
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.MvcApplicationPartsAssemblyInfo.cache
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.RazorAssemblyInfo.cache
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.RazorAssemblyInfo.cs
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.sourcelink.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.build.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.development.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.Developer_Site.Microsoft.AspNetCore.StaticWebAssets.props
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.build.Developer_Site.props
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Developer_Site.props
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Developer_Site.props
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\staticwebassets.pack.json
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\bundle\Developer_Site.styles.css
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\scopedcss\projectbundle\Developer_Site.bundle.scp.css
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.dll
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\refint\Developer_Site.dll
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.pdb
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\Developer_Site.genruntimeconfig.cache
+F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\obj\Debug\net8.0\ref\Developer_Site.dll

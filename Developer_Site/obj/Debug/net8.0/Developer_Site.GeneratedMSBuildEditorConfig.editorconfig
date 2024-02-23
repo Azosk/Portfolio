@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Developer_Site
 build_property.RootNamespace = Developer_Site
-build_property.ProjectDir = C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site\
+build_property.ProjectDir = F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\azosk\source\repos\Portfolio\Portfolio\Developer_Site
+build_property.MSBuildProjectDirectory = F:\repos\Dell_Repo\Portfolio\Portfolio\Developer_Site
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/azosk/source/repos/Portfolio/Portfolio/Developer_Site/Views/Portfolio/About.cshtml]
+[F:/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/Views/Portfolio/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/azosk/source/repos/Portfolio/Portfolio/Developer_Site/Views/Portfolio/Index.cshtml]
+[F:/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/Views/Portfolio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/azosk/source/repos/Portfolio/Portfolio/Developer_Site/Views/Portfolio/Projects.cshtml]
+[F:/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/Views/Portfolio/Projects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFByb2plY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/azosk/source/repos/Portfolio/Portfolio/Developer_Site/Views/Shared/Error.cshtml]
+[F:/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/azosk/source/repos/Portfolio/Portfolio/Developer_Site/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/azosk/source/repos/Portfolio/Portfolio/Developer_Site/Views/_ViewImports.cshtml]
+[F:/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/azosk/source/repos/Portfolio/Portfolio/Developer_Site/Views/_ViewStart.cshtml]
+[F:/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/azosk/source/repos/Portfolio/Portfolio/Developer_Site/Views/Shared/_Layout.cshtml]
+[F:/repos/Dell_Repo/Portfolio/Portfolio/Developer_Site/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8905zhclhv
