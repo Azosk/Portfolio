@@ -17,6 +17,7 @@ html {
   min-height: 100%;
   background: url('Developer_Background.jpg');
   background-size: cover;
+  padding-bottom: 50px;
 }
 
 footer {

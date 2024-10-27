@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\azosk\\.nuget\\packages\\": {}
+    "/Users/thomasneider/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azosk\\source\\Projects\\Portfolio\\Developer_Site\\Developer_Site.csproj",
+      "projectUniqueName": "/Users/thomasneider/Repos/Portfolio/Developer_Site/Developer_Site.csproj",
       "projectName": "Developer_Site",
-      "projectPath": "C:\\Users\\azosk\\source\\Projects\\Portfolio\\Developer_Site\\Developer_Site.csproj",
-      "packagesPath": "C:\\Users\\azosk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azosk\\source\\Projects\\Portfolio\\Developer_Site\\obj\\",
+      "projectPath": "/Users/thomasneider/Repos/Portfolio/Developer_Site/Developer_Site.csproj",
+      "packagesPath": "/Users/thomasneider/.nuget/packages/",
+      "outputPath": "/Users/thomasneider/Repos/Portfolio/Developer_Site/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\azosk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/thomasneider/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
