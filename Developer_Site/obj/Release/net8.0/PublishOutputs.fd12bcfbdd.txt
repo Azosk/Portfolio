@@ -1,0 +1,7 @@
+/Users/thomasneider/Repos/Portfolio/Developer_Site/bin/Release/net8.0/publish/Developer_Site
+/Users/thomasneider/Repos/Portfolio/Developer_Site/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/thomasneider/Repos/Portfolio/Developer_Site/bin/Release/net8.0/publish/appsettings.json
+/Users/thomasneider/Repos/Portfolio/Developer_Site/bin/Release/net8.0/publish/Developer_Site.dll
+/Users/thomasneider/Repos/Portfolio/Developer_Site/bin/Release/net8.0/publish/Developer_Site.deps.json
+/Users/thomasneider/Repos/Portfolio/Developer_Site/bin/Release/net8.0/publish/Developer_Site.runtimeconfig.json
+/Users/thomasneider/Repos/Portfolio/Developer_Site/bin/Release/net8.0/publish/Developer_Site.pdb
